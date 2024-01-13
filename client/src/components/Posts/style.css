@@ -1,0 +1,14 @@
+.posts-cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .posts-card{
+    width: calc(33.33% - 10px); /* Adjust the width and margin as needed */
+    margin-bottom: 20px; /* Adjust the margin between cards as needed */
+    
+    padding: 15px; /* Adjust padding as needed */
+   
+  }
+  

@@ -1,0 +1,25 @@
+.form-body{
+    margin-top: 3%;
+    width: 30%; /* Set width to one-third of the page */
+    padding: 20px; /* Add padding for spacing */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+    float: left; 
+    background-color: rgba(255, 255, 255, 0.5);
+    
+}
+
+.form-heading{
+   text-align: center; 
+}
+.filebase{
+    margin-top: 10px !important;
+}
+.buttons{
+    margin-top: 3%;
+}
+Button.form-button{
+    margin-left: 3%;
+}
+.form-textfield{
+    margin-top: 10px !important;
+}
